@@ -1,6 +1,5 @@
-(*  COMP 212 Homework 8:  Higher-order programming
+(*  COMP 212 Higher-order programming
 *
-*   N. Danner
 *  Rafael Goldstein
 *)
 
